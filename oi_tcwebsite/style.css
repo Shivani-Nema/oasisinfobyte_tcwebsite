@@ -1,0 +1,75 @@
+body{
+    background-color: rgb(181, 181, 231);
+}
+.image img{
+    height: 98vh;
+    width: 203vh;
+    filter: blur(3px);
+}
+.tc{
+    display: flex;
+    position: fixed;
+    top: 25vh;
+    left: 26vh;
+    background-color: rgb(211 213 241);
+    height: 49vh;
+    width: 155vh;
+    box-shadow: 3px 3px 15px 3px rgb(110, 110, 238);
+}
+h1{
+    display: flex;
+    position: fixed;
+    left: 72vh;
+    letter-spacing: 1.4px;
+}
+.c{
+    position: fixed;
+    left: 64vh;
+    top: 47vh;
+    border: 2px solid black;
+    font-style: bold;
+}
+.f{
+    position: fixed;
+    left: 116vh;
+    top: 47vh;
+    border: 2px solid black;
+
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button{
+    -webkit-appearance: none;
+}
+
+.imgc img{
+    position: fixed;
+    left: 31vh;
+    top: 38vh;
+}
+.imgf1 img{
+    position: fixed;
+    left: 164vh;
+    top: 38vh;
+    width: 11vh;
+    height: 24vh;
+}
+.icon1{
+    background-color:rgb(110, 110, 238);
+    text-align: center;
+    height: 3vh;
+    
+}
+.a1{
+    position: fixed;
+    top: 46vh;
+    left: 98vh;
+    font-size: 8vh;
+}
+.a2{
+    position: fixed;
+    top: 43vh;
+    left: 98vh;
+    font-size: 8vh;
+}
+
